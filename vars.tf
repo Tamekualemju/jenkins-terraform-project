@@ -4,6 +4,4 @@ variable "region" {}
 
 variable "ami_id" {}
 
-variable "name" {
-
-}
+variable "name" {}
